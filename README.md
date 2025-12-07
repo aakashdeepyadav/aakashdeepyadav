@@ -1,6 +1,13 @@
+## Hi, I'm Aakash 👋
 
-# 💫 About Me:
-<br>## I’m Aakash — Full-Stack / Software Developer<br><br>- 🎓 Based in Delhi, India  <br>- 💻 Passionate about building **web & backend applications**, solving real-world problems using clean, scalable code  <br>- 🔭 Currently working on [PROJECT_NAME] — a [short description of project]  <br>- 🌱 Always learning: exploring **[technologies you’re learning / frameworks / tools]**  <br>- ⚙️ Skilled in: **Java / Python / JavaScript / React / Node.js / SQL** *(customize with your actual stack)*  <br>- 📫 Reach me: [LinkedIn Profile](https://www.linkedin.com/in/aakashdeepyadav/) · [Your Email or Contact Link]<br>
+Software Developer | Full-Stack (MERN) | AI/ML Learner
+
+- Skilled in **Python, JavaScript, C/C++, Java, SQL**
+- Build full-stack apps using **React, Node.js, Express, Firebase**
+- Interested in **AI, automation, and problem-solving tools**
+- Working on real-time systems, AI productivity tools, and web platforms
+- Always learning and improving every day 💡
+
 
 
 ## 🌐 Socials:
